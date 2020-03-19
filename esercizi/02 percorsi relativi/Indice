@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="cache-control" content="no-cache">
+  <title>Indice percorsi relativi</title>
+</head>
+<body>
+    </p>
+    <p>
+        Ecco qui i vari esempi di percorso relativo.
+    </p>
+    <ul>
+      <li>
+        <a href="Esempio1/html/documenti/mio_documento.html">Esempio1</a>: 
+        Esempio 1 di percorso relativo.
+      </li>
+      <li>
+        <a href="Esempio2/html/mio_documento.html">Esempio2</a>: 
+        Esempio 2 di percorso relativo.
+      </li>
+      <li>
+        <a href="Esempio3/html/mio_documento.html">Esempio 3</a>: 
+        Esempio 3 di percorso relativo.
+      </li>
+    </ul>
+</body>
+</html>
